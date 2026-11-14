@@ -1,0 +1,91 @@
+post_id,brand,platform,content_type,campaign,likes,comments_count,views,days_since_post,type,why,anomaly_score
+P1153,Brand C,Facebook,Influencer post,Regular Collection,657,519,29877.0,78,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.753
+P0753,Brand A,Instagram,Product photo,Summer Lawn Launch,1317,836,,5,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.748
+P2744,Brand E,TikTok,Sale announcement,11.11 Collection,15,2,511.0,55,Underperformer,far fewer likes than similar posts; many complaints,0.742
+P0478,Brand A,Facebook,Reel,Regular Collection,735,438,24042.0,65,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.74
+P1995,Brand D,Instagram,Sale announcement,Eid Collection,1591,1539,,43,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.739
+P0908,Brand A,Instagram,Reel,Summer Lawn Launch,3058,1734,48142.0,69,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.736
+P0082,Brand C,Instagram,Sale announcement,Regular Collection,712,863,,84,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.731
+P0841,Brand B,Instagram,Product photo,Eid Collection,294,211,,23,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.73
+P0397,Brand A,TikTok,Reel,12.12 Collection,1701,844,54355.0,36,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.729
+P0370,Brand D,Facebook,Influencer post,Summer Lawn Launch,78,66,3141.0,63,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.729
+P1199,Brand E,Instagram,Sale announcement,Eid Collection,694,837,10877.0,83,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.728
+P1019,Brand A,TikTok,Reel,12.12 Collection,1009,555,35237.0,4,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.727
+P1968,Brand C,Instagram,Styling video,Summer Lawn Launch,638,428,19506.0,63,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.725
+P0335,Brand C,Instagram,Product photo,12.12 Collection,1421,582,,80,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.723
+P2868,Brand A,TikTok,Sale announcement,11.11 Collection,1261,1174,31990.0,58,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.718
+P2971,Brand D,Facebook,Reel,11.11 Collection,579,168,17666.0,50,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.718
+P2411,Brand C,TikTok,Styling video,Eid Collection,915,747,30979.0,66,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.717
+P0557,Brand D,Facebook,Influencer post,12.12 Collection,306,229,7628.0,36,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.716
+P0650,Brand E,Instagram,Product photo,Eid Collection,119,63,,26,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.716
+P0849,Brand E,Instagram,Styling video,Eid Collection,404,128,8788.0,70,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.709
+P0763,Brand E,TikTok,Reel,Regular Collection,608,306,14043.0,22,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.706
+P0256,Brand A,TikTok,Influencer post,Regular Collection,1318,924,61718.0,6,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.706
+P2294,Brand D,Instagram,Influencer post,Eid Collection,580,403,7510.0,53,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.705
+P2936,Brand B,TikTok,Product photo,Regular Collection,605,335,22337.0,27,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.704
+P2835,Brand B,Facebook,Product photo,Eid Collection,117,44,,57,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.702
+P0829,Brand E,TikTok,Product photo,Summer Lawn Launch,217,66,5349.0,83,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.699
+P2989,Brand E,Instagram,Reel,Regular Collection,1189,301,12017.0,16,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.691
+P0193,Brand D,Instagram,Styling video,11.11 Collection,554,331,11256.0,77,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.691
+P2169,Brand E,Instagram,Reel,Regular Collection,84,5,1367.0,85,Underperformer,far fewer likes than similar posts,0.679
+P1146,Brand C,Facebook,Reel,11.11 Collection,1144,178,35545.0,79,Other unusual,unusual mix of signals,0.676
+P2099,Brand D,Facebook,Reel,Summer Lawn Launch,347,77,9054.0,24,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.676
+P1632,Brand E,Facebook,Influencer post,Summer Lawn Launch,1519,121,67654.0,21,Outperformer,far more likes than similar posts,0.673
+P1109,Brand E,TikTok,Product photo,11.11 Collection,272,61,8926.0,37,Comment spike,unusually many comments for its likes; conversation dominated by tagging/giveaway entries,0.667
+P1203,Brand E,Instagram,Reel,Eid Collection,7,1,176.0,50,Underperformer,far fewer likes than similar posts,0.662
+P1940,Brand B,TikTok,Influencer post,Eid Collection,172,38,5258.0,69,Underperformer,far fewer likes than similar posts; unusually many comments for its likes,0.659
+P1604,Brand B,Facebook,Sale announcement,Summer Lawn Launch,1824,364,,89,Outperformer,far more likes than similar posts,0.656
+P0421,Brand E,TikTok,Product photo,Summer Lawn Launch,73,4,3112.0,18,Other unusual,unusual mix of signals,0.648
+P2132,Brand E,Facebook,Reel,Regular Collection,57,5,2742.0,39,Other unusual,unusual mix of signals,0.643
+P2179,Brand D,Instagram,Reel,11.11 Collection,81,7,1376.0,73,Underperformer,far fewer likes than similar posts,0.642
+P2184,Brand D,TikTok,Sale announcement,11.11 Collection,11708,1708,232457.0,22,Outperformer,far more likes than similar posts,0.642
+P2057,Brand D,TikTok,Sale announcement,11.11 Collection,2940,931,76523.0,83,Comment spike,unusually many comments for its likes,0.64
+P2124,Brand D,Facebook,Product photo,Summer Lawn Launch,21,2,,49,Other unusual,many complaints,0.64
+P2037,Brand C,Instagram,Reel,Regular Collection,96,10,2096.0,38,Underperformer,far fewer likes than similar posts,0.639
+P2317,Brand A,Instagram,Influencer post,Eid Collection,504,59,10720.0,60,Other unusual,unusual mix of signals,0.638
+P1018,Brand C,Instagram,Reel,Eid Collection,3745,571,69563.0,31,Other unusual,unusual mix of signals,0.638
+P1264,Brand E,Instagram,Eid campaign,Summer Lawn Launch,11108,535,157598.0,26,Outperformer,far more likes than similar posts,0.637
+P0406,Brand C,Instagram,Influencer post,Eid Collection,69,10,1565.0,13,Underperformer,far fewer likes than similar posts,0.634
+P1555,Brand C,TikTok,Reel,Regular Collection,61208,5105,1981325.0,47,Outperformer,far more likes than similar posts,0.631
+P0552,Brand B,Instagram,Product photo,Summer Lawn Launch,39,2,879.0,31,Underperformer,far fewer likes than similar posts,0.631
+P0007,Brand A,Facebook,Product photo,Regular Collection,39,4,,71,Other unusual,unusual mix of signals,0.631
+P1465,Brand E,Instagram,Styling video,11.11 Collection,12844,593,149053.0,51,Outperformer,far more likes than similar posts,0.63
+P0928,Brand B,TikTok,Sale announcement,11.11 Collection,141,17,4009.0,63,Other unusual,unusual mix of signals,0.629
+P1406,Brand A,TikTok,Sale announcement,11.11 Collection,14513,1679,558756.0,61,Outperformer,far more likes than similar posts,0.628
+P0189,Brand B,TikTok,Sale announcement,11.11 Collection,234,21,11032.0,35,Other unusual,unusual mix of signals,0.627
+P1225,Brand C,Instagram,Sale announcement,12.12 Collection,6337,841,,61,Outperformer,far more likes than similar posts,0.627
+P1354,Brand E,Instagram,Product photo,12.12 Collection,24,1,,39,Underperformer,far fewer likes than similar posts,0.625
+P0267,Brand C,Facebook,Styling video,Summer Lawn Launch,18,1,715.0,22,Underperformer,far fewer likes than similar posts,0.625
+P1872,Brand B,Instagram,Reel,Eid Collection,121,11,2649.0,49,Underperformer,far fewer likes than similar posts,0.624
+P2921,Brand B,Instagram,Reel,Eid Collection,3589,541,43575.0,5,Other unusual,unusual mix of signals,0.623
+P0644,Brand C,Facebook,Eid campaign,11.11 Collection,48,4,1667.0,10,Other unusual,unusual mix of signals,0.62
+P2129,Brand A,TikTok,Reel,Regular Collection,172,16,7214.0,37,Underperformer,far fewer likes than similar posts,0.62
+P1559,Brand E,Instagram,Sale announcement,Eid Collection,53,11,,78,Other unusual,unusual mix of signals,0.619
+P1564,Brand E,Facebook,Product photo,Summer Lawn Launch,29,1,1050.0,55,Other unusual,many complaints,0.618
+P1878,Brand E,Facebook,Sale announcement,Eid Collection,68,7,,68,Other unusual,many complaints,0.617
+P1602,Brand D,Instagram,Reel,12.12 Collection,102,5,1254.0,46,Underperformer,far fewer likes than similar posts,0.617
+P2805,Brand A,Instagram,Influencer post,Regular Collection,17648,1743,259085.0,31,Outperformer,far more likes than similar posts,0.617
+P1527,Brand B,Instagram,Reel,Summer Lawn Launch,16894,1169,320064.0,6,Outperformer,far more likes than similar posts,0.617
+P0687,Brand C,Facebook,Reel,11.11 Collection,25,3,1018.0,70,Underperformer,far fewer likes than similar posts,0.614
+P2085,Brand A,Facebook,Product photo,Summer Lawn Launch,2153,205,51345.0,31,Outperformer,far more likes than similar posts,0.61
+P0569,Brand D,Instagram,Product photo,Eid Collection,63,4,1430.0,84,Other unusual,unusual mix of signals,0.609
+P2660,Brand A,Instagram,Reel,Summer Lawn Launch,18330,1632,151820.0,9,Outperformer,far more likes than similar posts,0.609
+P0471,Brand D,Instagram,Influencer post,Summer Lawn Launch,354,19,6251.0,43,Other unusual,unusual mix of signals,0.608
+P0163,Brand C,Facebook,Product photo,Summer Lawn Launch,43,2,,79,Comment spike,conversation dominated by tagging/giveaway entries,0.603
+P0895,Brand D,TikTok,Product photo,Eid Collection,5671,303,111433.0,56,Outperformer,far more likes than similar posts,0.602
+P0148,Brand B,Facebook,Reel,11.11 Collection,888,95,24076.0,37,Other unusual,many complaints,0.602
+P0236,Brand D,Facebook,Styling video,11.11 Collection,30,6,826.0,61,Comment spike,unusually many comments for its likes,0.602
+P0351,Brand C,Instagram,Reel,12.12 Collection,7147,700,77068.0,17,Other unusual,unusual mix of signals,0.6
+P1166,Brand A,Facebook,Styling video,Summer Lawn Launch,4207,340,140370.0,18,Outperformer,far more likes than similar posts,0.599
+P1702,Brand A,Facebook,Product photo,Regular Collection,15,1,,5,Underperformer,far fewer likes than similar posts,0.599
+P2605,Brand D,Facebook,Product photo,Summer Lawn Launch,531,15,,75,Other unusual,unusual mix of signals,0.599
+P0576,Brand B,TikTok,Reel,12.12 Collection,176,21,6696.0,13,Underperformer,far fewer likes than similar posts,0.598
+P1510,Brand D,Facebook,Sale announcement,Eid Collection,49,6,,43,Other unusual,unusual mix of signals,0.597
+P2257,Brand D,Instagram,Sale announcement,Summer Lawn Launch,112,36,2287.0,15,Comment spike,unusually many comments for its likes,0.595
+P1716,Brand E,Facebook,Reel,Summer Lawn Launch,17,1,690.0,84,Underperformer,far fewer likes than similar posts,0.593
+P2192,Brand C,TikTok,Reel,Eid Collection,17783,1246,597014.0,25,Outperformer,far more likes than similar posts,0.592
+P2325,Brand D,Facebook,Influencer post,11.11 Collection,70,11,2955.0,5,Other unusual,unusual mix of signals,0.592
+P0881,Brand A,Facebook,Reel,12.12 Collection,2528,254,91660.0,10,Other unusual,unusual mix of signals,0.592
+P1892,Brand B,TikTok,Influencer post,Regular Collection,6414,590,228027.0,3,Outperformer,far more likes than similar posts,0.592
+P0965,Brand E,Instagram,Reel,Summer Lawn Launch,1069,87,10976.0,31,Other unusual,many complaints,0.591
+P1824,Brand E,Facebook,Reel,Summer Lawn Launch,46,5,1672.0,7,Other unusual,many complaints,0.591

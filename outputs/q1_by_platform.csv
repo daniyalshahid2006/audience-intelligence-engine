@@ -1,0 +1,4 @@
+platform,posts,median_views,median_likes,median_comments,attention_index,median_comment_to_like,median_engagement_rate
+Facebook,832,7577.0,198.0,19.0,1.0,0.091,0.035
+Instagram,1282,15320.0,783.0,75.0,1.0,0.089,0.067
+TikTok,697,33890.0,1059.0,102.0,1.0,0.093,0.037

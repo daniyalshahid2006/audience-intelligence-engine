@@ -1,0 +1,11 @@
+﻿cluster,need,comments,share_pct,top_terms,examples,pct_english,pct_roman_urdu,pct_urdu,pct_strong_intent,pct_possible_inquiry,pct_negative,validation_majority_topic,validation_purity_pct
+2,Praise,9445,22.5,"bohat, collection, love, design, بہت",absolutely love it | bht khoobsurat | wah bohat sundar,32.1,51.1,16.7,0.0,0.0,0.0,Praise,100.0
+1,Price questions,5501,13.1,"price, ka, hai, please, kya",ya kitnay ka hy? | yeh kitnai ka hai? | rate kya hai iska? 👌,31.3,52.0,16.6,0.0,100.0,0.0,Price inquiry,100.0
+4,Discounts and sales,4981,11.9,"discount, sale, 11, code, milega",kaya ye 11.11 sale mein hai? | Thora discount kar dein | sale main ye kitne ka hoga?,33.7,50.9,15.4,0.0,100.0,0.0,Discount,100.0
+0,Availability and restock,3994,9.5,"available, hai, mein, kab, stock",stock mein he ya? | Restock kab hoga? ❤️ | do you have this in stock?,21.2,59.2,19.7,0.0,100.0,0.0,Availability,100.0
+5,Fabric and quality,3875,9.3,"fabric, is, hai, kesa, kapra",kya ya pure lawn hai? | is the fabric soft? does it shrink after wash 😍 | is it see-through? the fabric looks thin,31.7,52.0,16.3,0.0,100.0,0.0,Fabric quality,100.0
+6,Ready to buy,3398,8.1,"order, chahiye, link, karna, آرڈر",main ne order kar diya | please send me the order link | Kaise order karun? 😍,31.3,51.8,16.9,100.0,0.0,0.0,Purchase intent,100.0
+3,Sizing and fit,3171,7.6,"size, large, jayega, chart, xl",xl size mil jayega? | Size kaya kia available hain | size kaya kya available hain? 😭,32.6,51.4,16.0,0.0,100.0,0.0,Sizing,100.0
+9,Delivery and shipping,2833,6.8,"delivery, charges, kitne, karachi, ڈیلیوری",COD available he? | delivery kitne din mein hogi? | karachi delivery hoti he? 😍,33.1,50.1,16.9,0.0,100.0,0.0,Delivery,100.0
+7,Tagging and giveaways,2819,6.7,"dekho, giveaway, done, tag, emoji_only",😍😍😍 | dekho yar ye acha hai | Giveaway ke liye comment,31.7,50.9,17.3,0.0,0.0,0.0,Tagging / giveaway,100.0
+8,Complaints,1872,4.5,"this, still, restocked, nahi, will",Colour faded after one wash ❤️ | is this still available | is this still available?,51.0,38.2,10.8,0.6,29.6,67.1,Complaint,67.1
